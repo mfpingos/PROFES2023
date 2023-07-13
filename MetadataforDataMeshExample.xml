@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:si="https://www.blueprints.com/">
+
+<rdf:Description
+rdf:about="https://www.blueprints.com/
+datameshblueprint">
+	
+      <cd:PillarDomain> 
+	
+		<li>Pillar Attribute 1</li> 
+		<li>Pillar Attribute 2</li>
+				.
+				.
+		<li>Pillar Attribute N</li>
+
+	</cd:PillarDomain>
+	 
+	<cd:Subdomain1> 
+	
+        <li>Subdomain1 Attribute 1</li> 
+	   <li>Subdomain1 Attribute 2</li>
+				.
+				.
+	   <li>Subdomain Attribute N</li>
+	</cd:Subdomain1>
+  <cd:Subdomain2> 
+	
+        <li>Subdomain2 Attribute 1</li> 
+	   <li>Subdomain2 Attribute 2</li>
+				.
+				.
+   <li>Subdomain2 Attribute N</li>				          
+  </cd:Subdomain2>
+
+	.
+	.
+	.				   
+  <cd:subdomainN>
+
+	
+     <li>SubdomainN Atribute 1</li> 
+	
+     <li>SubdomainN Attribute 2</li>
+				.
+				.
+	<li>SubdomainN Attribute 	N</li>
+	
+  </cd:subdomainN>
+</rdf:Description>
+
+</rdf:RDF>
